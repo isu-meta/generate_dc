@@ -20,7 +20,7 @@ and install it, following Saxonica's instructions.
 
 To install `generate_dc.ps1`, download it to your computer. Download a copy of
 [Islandora's default MODS-to-DC XSL](https://github.com/Islandora/islandora_batch/blob/7.x/transforms/mods_to_dc.xsl),
-`mods_to_dc.xsl` to the same folder as the `generate_dc.ps1`.
+`mods_to_dc.xsl`, to the same folder as the `generate_dc.ps1`.
 
 ## Usage
 

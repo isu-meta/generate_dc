@@ -25,7 +25,7 @@ line.
 #>
 param(
     [Parameter (Mandatory=$true)] [string] $Path,
-    [Parameter (Mandatory=$false)] [string] $XSL = ".\mods_to_dc.xsl"
+    [Parameter (Mandatory=$false)] [string] $XSL = ".\isu_mods_to_dc.xsl"
 )
 
 Get-ChildItem -Path ${Path}\*.xml | ForEach-Object {
